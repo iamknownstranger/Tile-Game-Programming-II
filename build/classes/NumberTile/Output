@@ -1,0 +1,70 @@
+run:
+****** Initial Hand 1 ******
+
+   2
+2     6
+   2   
+   2
+4     4
+   8   
+   5
+7     4
+   5   
+   9
+6     3
+   5   
+   5
+6     1
+   2   
+****** Initial Hand 2 ******
+
+   7
+1     6
+   5   
+   7
+6     1
+   2   
+   2
+7     6
+   4   
+   2
+5     3
+   1   
+   2
+6     5
+   1   
+****** Final Board ******
+
+   9
+6     3
+   5   
+   5
+3     7
+   7   
+   5
+7     4
+   5   
+   2
+4     4
+   8   
+   7
+4     2
+   6   
+   6
+2     2
+   2   
+   6
+2     7
+   1   
+   6
+7     5
+   1   
+   2
+5     3
+   1   
+****** Final Hand 1 ******
+
+****** Final Hand 2 ******
+
+****** Both Hands are Winners! - Tie ******
+BUILD SUCCESSFUL (total time: 4 seconds)
